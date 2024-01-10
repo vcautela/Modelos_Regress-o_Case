@@ -7,4 +7,6 @@ Foi testado os seguintes modelos de regressão: Statsmodel.smf.ols, sklearn.mode
 
 Para desempenho dos modelos, foi usado as seguintes métrica: R² (coeficiente de determinação) e MAE (Mean Absolute Error), sendo que foi medido o Erro Absoluto Médio (MAE) para a base de treino e para a base de teste
 
-Foi utilizado GridSearchCV para melhorar o desempenho de um dos modelos a partir de escolha de hiperparametros 
+Foi utilizado GridSearchCV para melhorar o desempenho de um dos modelos a partir de escolha de hiperparametros
+
+Esse exercício tem a intenção de reforçar os diferentes modelos de regressão e algumas métricas de desempenho. Não foi o foco desse estudo etapas anteriores como pre-processamento e análise exploratória
